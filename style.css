@@ -1,0 +1,189 @@
+body{
+  width:1280px;
+}
+header{
+  position: fixed;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 50px;
+  border: none;
+  font-size: 30px;
+  margin: 0px;
+  z-index: 1;
+}
+
+.elso:hover {
+  color: #800000;
+  background: lime;
+  cursor: pointer;
+  margin: 0px;
+  }
+
+.elso{
+  background: green;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 320px;
+  font-size: 30px;
+  
+}
+
+.masodik:hover {
+  color: #800000;
+  background: lime;
+  cursor: pointer;
+  margin: 0px;
+}
+
+.masodik{
+  background: green;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 320px;
+  font-size: 30px;
+}
+
+.harmadik:hover {
+  color: #800000;
+  background: lime;
+  cursor: pointer;
+  margin: 0px;
+}
+
+.harmadik{
+  background: green;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 320px;
+  font-size: 30px;
+}
+
+.negyedik:hover {
+  color: #800000;
+  background: lime;
+  cursor: pointer;
+  margin: 0px;
+}
+
+.negyedik{
+  background: green;
+  color: white;
+  border: none;
+  height: 50px;
+  width: 320px;
+  font-size: 30px;
+}
+
+div{
+  width: 1280px;
+  height: 40px;
+ }
+
+section{
+ display: flex;
+ width: 1280px;
+ height: 450px;
+ background: 	#FFFFF0;
+ margin-left:-17px;
+}
+
+img{
+  width:650px;
+  height:350px;
+  }
+
+.hi{
+  font-family: 'Permanent Marker', cursive;
+  color: #DC143C;
+  padding-left: 50px;
+  width: 810px;
+  position: absolute;
+  top: 240px;  
+  line-height: 0.5;
+  }
+
+.szoveg{
+  width: 1280px;
+  height: 200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #2F4F4F;
+  font-family: 'Gowun Batang', serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+blockquote:before{
+  content:'“';
+  font-size:150px;
+  position: absolute;
+  top:15px;
+  left:0px;
+  margin-left:0px;
+  line-height: 0.8;
+}
+
+blockquote{
+font-family: 'Kanit', sans-serif;
+font-size: 50px;
+color: #800000;
+background: #8FBC8F;
+padding-bottom: 0px;
+padding-top: 15px;
+padding-left: 50px;
+width: 300px;
+line-height: 1,2;
+position: relative;
+margin: 0px;
+}
+
+h1{
+  font-size: 60px;  
+  line-height: 0.1;
+}
+
+h2{
+  font-size: 40px;
+}
+
+h4{
+  font-size: 25px;
+  line-height: 1;
+  font-family: 'Gowun Batang', serif;
+  font-size: 22px;
+  margin-left: 30px;
+  margin-bottom: 1px;
+ }
+
+.alcim{
+  font-family: 'Gowun Batang', serif;
+  font-size: 25px;
+  margin-top: 0px;
+}
+
+.felsorolas{
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+}
+
+.a{
+font-family: 'Gowun Batang', serif;
+}
+
+.b{
+ font-family: 'Gowun Batang', serif;
+  text-align: justify;
+}
+
+.c{
+  font-family: 'Secular One', sans-serif;
+  font-size: 17px;
+  line-height: 0.2;
+  }
